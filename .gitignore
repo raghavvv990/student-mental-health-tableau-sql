@@ -1,0 +1,11 @@
+# Tableau temporary/cache files
+*.tmp
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Python/cache if Python is later added
+__pycache__/
+*.py[cod]
